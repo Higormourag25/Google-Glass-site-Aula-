@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+section#conteudo {
+    width: 1000px;
+    margin: auto;
+}
+
+/*img#oculoss {
+    width: 700px;
+    margin: auto;
+}*/
+
+iframe#frame-spec {
+    width: 490px;
+    height: 380px;
+    border: none;
+    overflow: hidden;
+    
+}   
+
